@@ -5,3 +5,4 @@
 3-listfiles display current directory contents in a long format .
 4-listmorefiles script Display current directory contents, including hidden files (starting with .). Use the long format.
 5-listfilesdigitonly script Display current directory contents .
+6-firstdirectory is a script that creates a directory named my_first_directory.
